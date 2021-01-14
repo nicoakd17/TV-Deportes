@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,TNT SPORTS
+https://live.televisiongratishd.com/tvplus2021/9_.m3u8?token=6TgZAy86qiLRprdUw_ccIg&expires=1610670285&ip=190.179.24.249 conn=S:OK --live
+#EXTINF:-1,FOX SPORTS PREMIUM Arg
+https://live.televisiongratishd.com/tvplus2021/10_.m3u8?token=CW0UDC0GP-hHdBcdL7N0gA&expires=1610674104&ip=190.179.24.249 conn=S:OK --live
